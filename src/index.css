@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Playfair+Display:wght@500;600&display=swap");
+
+@import "tailwindcss";
+
+:root {
+  --cream: #f4f2ed;
+  --green: #20c76a;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "DM Sans", sans-serif;
+  background: #f4f2ed;
+  color: #111111;
+}
+
+button,
+a {
+  font-family: inherit;
+}
+
