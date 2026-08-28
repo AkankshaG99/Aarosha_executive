@@ -1,8 +1,8 @@
 import sittingArea from "../assets/sittingArea.PNG";
-import lakeview from "../assets/lakeview.PNG";
+import lakeview from "../assets/lakeview.png";
 import Reception from "../assets/Reception.PNG"
 import Room1 from "../assets/Room1.PNG";
-import hangingChair from "../assets/hangingChair.PNG"
+import hangingChair from "../assets/hangingChair.png"
 const Gallery = () => {
     const images = [
         {
